@@ -9,6 +9,9 @@
   font-weight: 400;
   color: #f7f7f7;
 }
+body{
+  overflow-x: hidden;
+}
 
 .block1 {
   max-width: 1440px;
@@ -24,7 +27,7 @@
   background-image: url(./assets/pic/main_pic.png);
   background-repeat: no-repeat;
   background-size: auto;
-  height: 780px;
+  height: 779px;
   padding: 202px 120px;
 }
 .page_header {
