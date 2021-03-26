@@ -9,7 +9,9 @@
   font-weight: 400;
   color: #f7f7f7;
 }
-
+body{
+  overflow-x: hidden;
+}
 .block1 {
   max-width: 1440px;
   margin: 0 auto;
